@@ -1,0 +1,5 @@
+:HL["/mervat-preview/_next/static/chunks/32orenw_rn6u2.css","style"]
+:HL["/mervat-preview/_next/static/media/bodoni_moda_latin_wght_italic-s.p.2ebojhi24cjg8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mervat-preview/_next/static/media/bodoni_moda_latin_wght_normal-s.p.328xhr0-_klet.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mervat-preview/_next/static/media/instrument_sans_latin_wght_normal-s.p.3h2wr6o8p949u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"en","siblings":[]},"prefetchHints":4208,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ER3a6zFuQat5fJ3AzbeUX"}
